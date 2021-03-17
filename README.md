@@ -16,6 +16,7 @@
   </a>
 
   <a href="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBrunoNielsen14">
+  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
